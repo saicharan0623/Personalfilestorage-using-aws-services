@@ -1,5 +1,5 @@
 
-# 🔐 AWS Cloud-Native Personal Data Manager
+# 🔐 AWS Cloud-Personal Data Manager
 
 🔗 **Live Demo:** [https://main.d1yq2rbfzqan7e.amplifyapp.com/](https://main.d1yq2rbfzqan7e.amplifyapp.com/)
 
